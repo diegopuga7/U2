@@ -1,1 +1,14 @@
-jadh
+# A1. Verdadero o falso
+
+| N.º | Afirmación | V / F | Corrección (si es falsa) |
+|---|---|---|---|
+| 1 | "HTML es un lenguaje de programación como Python: sirve para hacer cálculos y tomar decisiones." | **F** | HTML es un lenguaje de **marcado**: describe la estructura y el contenido de una página, pero no calcula ni toma decisiones. |
+| 2 | "La etiqueta `<br>` no necesita etiqueta de cierre." | **V** | — (es una etiqueta vacía) |
+| 3 | "El valor de un atributo siempre se escribe entre comillas." | **F** | El valor de un atributo se escribe entre comillas, que son obligatorias si contiene espacios y recomendables siempre. |
+| 4 | "Los atributos de una etiqueta se escriben en la etiqueta de cierre." | **F** | Los atributos se escriben en la etiqueta de **apertura**. |
+| 5 | "El texto de `<title>` aparece en la pestaña del navegador." | **V** | — |
+| 6 | "`<strong>` y `<b>` se visualizan igual." | **V** | — (ambas se ven en negrita; cambia el significado: `<strong>` indica importancia) |
+| 7 | "Todo lo que escribimos dentro de `<head>` se ve en la página." | **F** | Lo de `<head>` no se muestra (solo el `<title>` aparece en la pestaña). Se ve lo que está dentro de `<body>`. |
+| 8 | "La etiqueta `<hr>` se cierra con `</hr>`." | **F** | `<hr>` es una etiqueta vacía: se escribe solo `<hr>`, sin cierre. |
+| 9 | "Un comentario HTML (`<!-- ... -->`) se muestra en pantalla como una nota gris." | **F** | Los comentarios **no se muestran** en pantalla; solo se ven en el código fuente. |
+| 10 | "`<span>` crea un bloque de texto que siempre empieza en una línea nueva." | **F** | `<span>` es un elemento **en línea**: no crea salto de línea. Es `<p>` el que crea un bloque. |
